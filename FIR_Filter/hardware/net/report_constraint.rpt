@@ -1,0 +1,21 @@
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : constraint
+        -all_violators
+Design : hamming_lowpass
+Version: S-2021.06-SP5-5
+Date   : Tue Jun 18 19:30:39 2024
+****************************************
+
+
+   max_leakage_power
+
+                             Required        Actual
+   Design                   Leakage Power  Leakage Power     Slack
+   -----------------------------------------------------------------
+   hamming_lowpass              0.00       55399556.00    -55399556.00
+                                                                    (VIOLATED)
+
+
+1
